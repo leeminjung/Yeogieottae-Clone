@@ -86,3 +86,12 @@
  ![호스트](https://user-images.githubusercontent.com/86812173/156031892-565048bf-6308-47aa-8404-4b44f9463c8a.gif)
  
   </div>
+  
+  
+  ### 4.관리자 페이지
+  > <ins>사용자와 호스트 모두 관리할 수 있도록 구성</ins>
+  
+  
+ <div align= center>
+ 
+ </div>
