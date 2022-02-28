@@ -63,3 +63,12 @@
  ![회원가입및로그인](https://user-images.githubusercontent.com/86812173/155985878-24b0cb18-1fb8-4100-8049-bf1750eaae8d.gif)
 
  </div>
+
+### 3.찜하기
+- 기존 웹페이지에 없는 찜하기 기능❤️과 찜목록 추가
+
+<div align= center>
+ 
+ ![회원가입및로그인](https://user-images.githubusercontent.com/86812173/155985878-24b0cb18-1fb8-4100-8049-bf1750eaae8d.gif)
+
+ </div>
