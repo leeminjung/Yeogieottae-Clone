@@ -71,7 +71,19 @@
  
  ----------
  ```js
- 코드작성 
+ // 위 코드 생략
+ // 이민정, 21.09.14
+ // SMS인증번호 일치 확인 문구
+            $(".checkcode").on("click", function () {
+                if ($("#ucode").val() == code) { //  ucode : 사용자가 입력한 인증번호 , code: 발송된 인증번호
+                    ($("#codeResult").html("일치합니다"));
+                    chkSms = true;
+                    clearInterval(timer); //인증확인 일치할경우 타이머멈추기
+                    $('.time').html(""); //타이머 사라지게하기
+                } else {
+                    ($("#codeResult").html("일치하지 않습니다"));
+                }
+            })
  ```
 
 ### 3.찜하기
