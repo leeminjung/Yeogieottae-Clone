@@ -4,6 +4,14 @@
 ![여기어때 헤더](https://user-images.githubusercontent.com/86812173/155169218-edf5c234-9457-4433-a814-ecbcfee18ee8.png)
 </div>
 
+<h2>📌이민정 포트폴리오</h2>
+<br>
+
+### [포트폴리오](https://github.com/leeminjung/Yeogieottae-Clone/blob/master/%EC%9D%B4%EB%AF%BC%EC%A0%95%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) - 포트폴리오 PDF 주소
+<br>
+
+
+
 <h2>📌PROJECT OVERVIEW</h2>
  
 > **<h3>숙박 예약 웹사이트인 "여기어때" 프로젝트</h3>**
